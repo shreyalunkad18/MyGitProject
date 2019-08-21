@@ -1,2 +1,11 @@
 This is a file for the welcome!
 (Only for the demo purposes)
+
+class MyClass{
+
+	public static void main(){
+	
+	print("Welcome user!")
+	
+	}
+}
