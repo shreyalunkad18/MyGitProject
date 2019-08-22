@@ -3,6 +3,11 @@ This is a file for the welcome!
 
 class MyClass{
 
+	void Mymethod()
+	{
+		print("New Method");
+	}
+
 	public static void main(String args[]){
 	
 		System.out.print("Welcome user...!");
